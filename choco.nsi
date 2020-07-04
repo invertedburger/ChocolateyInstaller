@@ -1,7 +1,7 @@
 !include psexec.nsh
 
 # name the installer
-OutFile "Choco-Installer.exe"
+OutFile "ChocolateyInstaller.exe"
  
 # default section start; every NSIS script has at least one section.
 Section
